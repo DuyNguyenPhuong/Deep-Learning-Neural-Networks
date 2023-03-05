@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][images/Screen Shot 2023-03-04 at 9.09.06 PM]](https://example.com)
+[![Product Name Screen Shot][images/Screen Shot 2023-03-04 at 9.09.06 PM,png]]([https://example.com](https://github.com/DuyNguyenPhuong/Deep-Learning-Neural-Networks/blob/main/images/Screen%20Shot%202023-03-04%20at%209.09.06%20PM.png))
 
 This projects is collections of my Deep Learning Projects I did. I hope you can see some useful documents
 

@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][images/Screen Shot 2023-03-04 at 9.09.06 PM.png]
+![Product Name Screen Shot][images/Screen Shot 2023-03-04 at 9.09.06 PM.png]
 
 This projects is collections of my Deep Learning Projects I did. I hope you can see some useful documents
 

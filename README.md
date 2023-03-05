@@ -1,11 +1,4 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 
 
 <!-- PROJECT LOGO -->
@@ -56,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](images/Screen Shot 2023-03-04 at 9.09.06 PM.png)
+![Product Name Screen Shot](images/Demo.png)
 
 This projects is collections of my Deep Learning Projects I did. I hope you can see some useful documents
 
